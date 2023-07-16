@@ -37,6 +37,19 @@ Follow these steps to interface the Nvidia Jetbot with YOLO object detection:
 ![WhatsApp Image 2023-07-16 at 8 59 30 PM](https://github.com/kabilan2003/isaac_ros/assets/109456728/7225a3cb-9f7c-427d-8d40-9cb1f3ac9f03)
 
 
+# Launch yolo object detection by 
+
+roslaunch darknet_ros darknet_ros.launch 
+
+
+
+# Launch rqt and rviz on terminal 
+
+# Running the Demo
+
+
+
+
 
 
 
