@@ -34,6 +34,11 @@ Follow these steps to interface the Nvidia Jetbot with YOLO object detection:
 4. isaac set camera
 5. ros1 camera helper
 
+![WhatsApp Image 2023-07-16 at 8 59 30 PM](https://github.com/kabilan2003/isaac_ros/assets/109456728/7225a3cb-9f7c-427d-8d40-9cb1f3ac9f03)
+
+
+
+
 
 
 
